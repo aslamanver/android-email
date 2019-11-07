@@ -1,6 +1,6 @@
 ### SMTP Email for Android (Send emails from Android)
 
-In few lines of code
+Just write few lines of code.
 
 ```java
 final String username = "yourname@yourcompany.com";
@@ -36,3 +36,5 @@ try {
     throw new RuntimeException(e);
 }
 ```
+
+Configure your email server and enjoy.
